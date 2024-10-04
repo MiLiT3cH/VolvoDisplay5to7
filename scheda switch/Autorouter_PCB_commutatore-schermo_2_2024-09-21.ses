@@ -1,0 +1,4526 @@
+(session "Autorouter_PCB_commutatore-schermo_2_2024-09-21.ses"
+  (base_design "Autorouter_PCB_commutatore-schermo_2_2024-09-21.dsn")
+  (placement
+    (resolution mil 1000)
+    (component u1
+      (place u1 0 0 front 0)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution mil 1000)
+    (parser
+    )
+    (library_out 
+      (padstack via0
+        (shape
+          (circle 1 2402 0 0)
+        )
+        (shape
+          (circle 2 2402 0 0)
+        )
+        (shape
+          (circle 21 2402 0 0)
+        )
+        (shape
+          (circle 22 2402 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+      (padstack via1
+        (shape
+          (circle 1 2400 0 0)
+        )
+        (shape
+          (circle 2 2400 0 0)
+        )
+        (shape
+          (circle 21 2400 0 0)
+        )
+        (shape
+          (circle 22 2400 0 0)
+        )
+      )
+    )
+    (network_out 
+      (net U1_1
+        (wire
+          (path 21 1000
+            83831 -26456
+            79542 -22167
+            31340 -22167
+            25551 -27956
+          )
+        )
+        (wire
+          (path 21 1000
+            249150 -113162
+            255548 -106764
+            255548 -72155
+            253432 -70039
+            241580 -70039
+            197997 -26456
+            83831 -26456
+          )
+        )
+        (wire
+          (path 1 1000
+            128996 -33617
+            128996 -27638
+          )
+        )
+        (wire
+          (path 1 1000
+            128996 -27638
+            127814 -26456
+            83831 -26456
+          )
+        )
+        (wire
+          (path 1 1000
+            192397 -171876
+            192004 -172269
+            192004 -174540
+            197527 -180063
+            227789 -180063
+          )
+        )
+        (wire
+          (path 21 1000
+            249150 -113162
+            267268 -131280
+            267268 -158677
+            245882 -180063
+            227789 -180063
+          )
+        )
+        (wire
+          (path 1 1000
+            192397 -167216
+            192397 -171876
+          )
+        )
+        (via via1 227789 -180063
+        )
+        (wire
+          (path 1 1000
+            249150 -113162
+            248361 -113951
+            248361 -114000
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -114000
+            248361 -114000
+          )
+        )
+        (via via1 249150 -113162
+        )
+        (wire
+          (path 1 1000
+            23397 -166216
+            23397 -161555
+          )
+        )
+        (wire
+          (path 1 1000
+            25551 -27956
+            15771 -37736
+            15771 -153929
+            23397 -161555
+          )
+        )
+      )
+      (net U2_30
+        (wire
+          (path 1 1000
+            249786 -56913
+            243701 -56913
+          )
+        )
+        (wire
+          (path 2 1000
+            136411 -180764
+            141481 -185834
+            225601 -185834
+            255440 -155995
+            255440 -62567
+            249786 -56913
+          )
+        )
+        (wire
+          (path 1 1000
+            131158 -178795
+            134442 -178795
+            136411 -180764
+          )
+        )
+        (via via1 249786 -56913
+        )
+        (via via1 136411 -180764
+        )
+      )
+      (net U4_16
+        (wire
+          (path 2 1000
+            121067 -65441
+            121067 -40335
+            121056 -40324
+          )
+        )
+        (wire
+          (path 2 1000
+            117367 -78012
+            121067 -74312
+            121067 -65441
+          )
+        )
+        (wire
+          (path 2 1000
+            162419 -75413
+            157103 -75413
+            147131 -65441
+            121067 -65441
+          )
+        )
+        (wire
+          (path 1 1000
+            115114 -107957
+            113524 -109547
+            72292 -109547
+            68158 -105413
+          )
+        )
+        (wire
+          (path 1 1000
+            59945 -99914
+            65444 -105413
+            68158 -105413
+          )
+        )
+        (wire
+          (path 1 1000
+            115114 -107957
+            117658 -105413
+          )
+        )
+        (wire
+          (path 2 1000
+            117367 -78012
+            115114 -80265
+            115114 -107957
+          )
+        )
+        (via via1 115114 -107957
+        )
+        (wire
+          (path 1 1000
+            117658 -75413
+            117658 -77721
+            117367 -78012
+          )
+        )
+        (wire
+          (path 1 1000
+            119941 -39597
+            120329 -39597
+            121056 -40324
+          )
+        )
+        (wire
+          (path 21 1000
+            70051 -26456
+            83918 -40323
+            121056 -40323
+            121056 -40324
+          )
+        )
+        (wire
+          (path 22 1000
+            262941 -154673
+            246448 -154673
+            224445 -176676
+            207775 -176676
+            161466 -130367
+            161466 -103368
+            161361 -103263
+          )
+        )
+        (via via1 117367 -78012
+        )
+        (wire
+          (path 1 1000
+            59945 -99914
+            59945 -83626
+            68158 -75413
+          )
+        )
+        (wire
+          (path 1 1000
+            21539 -97456
+            23997 -99914
+            59945 -99914
+          )
+        )
+        (wire
+          (path 22 1000
+            262941 -150456
+            262941 -154673
+          )
+        )
+        (wire
+          (path 2 1000
+            162419 -75413
+            161361 -76471
+            161361 -103263
+          )
+        )
+        (wire
+          (path 1 1000
+            161361 -103263
+            163511 -105413
+            167658 -105413
+          )
+        )
+        (via via1 161361 -103263
+        )
+        (wire
+          (path 1 1000
+            119941 -33617
+            119941 -39597
+          )
+        )
+        (via via1 121056 -40324
+        )
+        (wire
+          (path 1 1000
+            167658 -75413
+            162419 -75413
+          )
+        )
+        (via via1 162419 -75413
+        )
+      )
+      (net U4_1
+        (wire
+          (path 1 1000
+            140223 -75413
+            142095 -77285
+            142095 -78407
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -75413
+            187177 -78459
+            142147 -78459
+            142095 -78407
+          )
+        )
+        (wire
+          (path 22 1000
+            140223 -107952
+            142095 -106080
+            142095 -78407
+          )
+        )
+        (wire
+          (path 21 1000
+            189230 -107917
+            188093 -106780
+            170081 -106780
+            169480 -107381
+            140794 -107381
+            140223 -107952
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -105413
+            190223 -106924
+            189230 -107917
+          )
+        )
+        (via via1 142095 -78407
+        )
+        (wire
+          (path 2 1000
+            148397 -183299
+            140223 -175125
+            140223 -107952
+          )
+        )
+        (wire
+          (path 21 1000
+            140223 -107952
+            137160 -104889
+            98281 -104889
+            97663 -105507
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -107952
+            140223 -105413
+          )
+        )
+        (via via1 140223 -107952
+        )
+        (wire
+          (path 1 1000
+            90723 -75413
+            86289 -75413
+            85439 -74563
+          )
+        )
+        (wire
+          (path 21 1000
+            27237 -66015
+            28191 -65061
+            75102 -65061
+            84604 -74563
+            85439 -74563
+          )
+        )
+        (wire
+          (path 22 1000
+            97663 -105507
+            85439 -93283
+            85439 -74563
+          )
+        )
+        (via via1 189230 -107917
+        )
+        (wire
+          (path 1 1000
+            21539 -67456
+            25796 -67456
+            27237 -66015
+          )
+        )
+        (wire
+          (path 1 1000
+            153723 -183913
+            149011 -183913
+            148397 -183299
+          )
+        )
+        (via via1 148397 -183299
+        )
+        (wire
+          (path 1 1000
+            90723 -105413
+            90817 -105507
+            97663 -105507
+          )
+        )
+        (via via1 97663 -105507
+        )
+        (via via1 85439 -74563
+        )
+        (via via1 27237 -66015
+        )
+      )
+      (net U1_23
+        (wire
+          (path 2 1000
+            135108 -71443
+            131117 -75434
+            131117 -90132
+            137416 -96431
+            137416 -101794
+            67620 -171590
+            66704 -171590
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -70295
+            136256 -70295
+            135108 -71443
+          )
+        )
+        (wire
+          (path 1 1000
+            66704 -171590
+            66704 -166216
+          )
+        )
+        (via via1 66704 -171590
+        )
+        (via via1 135108 -71443
+        )
+      )
+      (net U3_15
+        (wire
+          (path 2 1000
+            133438 -77818
+            156824 -101204
+            156824 -112373
+            184984 -140533
+            202471 -140533
+          )
+        )
+        (wire
+          (path 1 1000
+            202471 -140533
+            219956 -158018
+            219956 -167216
+          )
+        )
+        (via via1 202471 -140533
+        )
+        (via via1 133438 -77818
+        )
+        (wire
+          (path 22 1000
+            99874 -67693
+            102572 -64995
+            120615 -64995
+            133438 -77818
+          )
+        )
+        (via via1 99874 -67693
+        )
+        (wire
+          (path 1 1000
+            90723 -67735
+            99832 -67735
+            99874 -67693
+          )
+        )
+      )
+      (net H1_2
+        (wire
+          (path 21 1000
+            30037 -82496
+            57845 -110304
+            148252 -110304
+            149510 -109046
+            180376 -109046
+            182753 -111423
+            185162 -111423
+            185951 -110634
+            187820 -110634
+            192654 -115468
+            237953 -115468
+            262941 -140456
+          )
+        )
+        (via via1 30037 -82496
+        )
+        (wire
+          (path 1 1000
+            21539 -77456
+            24997 -77456
+            30037 -82496
+          )
+        )
+      )
+      (net GND
+        (wire
+          (path 1 1000
+            227889 -112632
+            238440 -112632
+            239041 -112031
+          )
+        )
+        (wire
+          (path 22 1000
+            195586 -87553
+            202810 -87553
+            227889 -112632
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -112031
+            239041 -112031
+          )
+        )
+        (via via1 227889 -112632
+        )
+        (wire
+          (path 1 1000
+            195586 -87553
+            190277 -87553
+            190223 -87499
+          )
+        )
+        (wire
+          (path 2 1000
+            184240 -65133
+            184240 -76207
+            195586 -87553
+          )
+        )
+        (via via1 195586 -87553
+        )
+        (via via1 184240 -65133
+        )
+        (wire
+          (path 1 1000
+            183647 -60771
+            184240 -61365
+            184240 -65133
+          )
+        )
+        (wire
+          (path 1 1000
+            183647 -60771
+            186919 -57499
+            190223 -57499
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -57499
+            142277 -55445
+            178320 -55445
+            183647 -60771
+          )
+        )
+        (wire
+          (path 1 1000
+            91599 -85382
+            83065 -76848
+            83065 -57978
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -57499
+            140223 -57440
+            128613 -45830
+            110886 -45830
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -87499
+            138106 -85382
+            91599 -85382
+          )
+        )
+        (wire
+          (path 1 1000
+            110886 -45830
+            102392 -45830
+            90723 -57499
+          )
+        )
+        (wire
+          (path 1 1000
+            110886 -39597
+            110886 -45830
+          )
+        )
+        (wire
+          (path 1 1000
+            64100 -55660
+            48639 -71121
+          )
+        )
+        (wire
+          (path 1 1000
+            83065 -57978
+            80747 -55660
+            64100 -55660
+          )
+        )
+        (wire
+          (path 1 1000
+            64100 -55660
+            64100 -52725
+            39331 -27956
+          )
+        )
+        (wire
+          (path 1 1000
+            48639 -71121
+            44974 -67456
+            43343 -67456
+          )
+        )
+        (wire
+          (path 1 1000
+            43343 -97456
+            44553 -97456
+            48639 -93370
+            48639 -71121
+          )
+        )
+        (wire
+          (path 1 1000
+            83065 -57978
+            83544 -57499
+            90723 -57499
+          )
+        )
+        (wire
+          (path 1 1000
+            91599 -85382
+            90723 -86258
+            90723 -87499
+          )
+        )
+        (wire
+          (path 1 1000
+            35189 -150724
+            138448 -150724
+            153723 -165999
+          )
+        )
+        (wire
+          (path 1 1000
+            35189 -150724
+            35189 -151732
+            25366 -161555
+          )
+        )
+        (wire
+          (path 2 1000
+            39331 -27956
+            35189 -32098
+            35189 -150724
+          )
+        )
+        (via via1 35189 -150724
+        )
+        (wire
+          (path 1 1000
+            25366 -166216
+            25366 -161555
+          )
+        )
+        (wire
+          (path 1 1000
+            153723 -165999
+            157171 -162551
+            194362 -162551
+            194366 -162555
+          )
+        )
+        (wire
+          (path 1 1000
+            194366 -167216
+            194366 -162555
+          )
+        )
+        (wire
+          (path 1 1000
+            110886 -33617
+            110886 -39597
+          )
+        )
+      )
+      (net U1_16
+        (wire
+          (path 1 1000
+            52925 -166216
+            52925 -161218
+            53288 -160855
+          )
+        )
+        (wire
+          (path 2 1000
+            85413 -62617
+            85409 -62621
+            79141 -62621
+            75851 -59331
+            73332 -59331
+            53288 -79375
+            53288 -160855
+          )
+        )
+        (wire
+          (path 1 1000
+            90723 -62617
+            85413 -62617
+          )
+        )
+        (via via1 85413 -62617
+        )
+        (via via1 53288 -160855
+        )
+      )
+      (net U1_17
+        (wire
+          (path 1 1000
+            68158 -60058
+            65215 -60058
+            57262 -68011
+            57262 -94683
+          )
+        )
+        (wire
+          (path 22 1000
+            52040 -171625
+            50799 -170384
+            50799 -157679
+            57262 -151216
+            57262 -94683
+          )
+        )
+        (wire
+          (path 1 1000
+            54893 -166216
+            54893 -170876
+          )
+        )
+        (wire
+          (path 1 1000
+            52040 -171625
+            54144 -171625
+            54893 -170876
+          )
+        )
+        (via via1 52040 -171625
+        )
+        (via via1 57262 -94683
+        )
+      )
+      (net U1_25
+        (wire
+          (path 2 1000
+            71742 -159180
+            71742 -155954
+            77914 -149782
+            79397 -149782
+            118892 -110287
+            118892 -80549
+            122378 -77063
+          )
+        )
+        (wire
+          (path 1 1000
+            117658 -60058
+            120765 -60058
+            122378 -61671
+            122378 -77063
+          )
+        )
+        (wire
+          (path 1 1000
+            70641 -166216
+            70641 -160281
+            71742 -159180
+          )
+        )
+        (via via1 71742 -159180
+        )
+        (via via1 122378 -77063
+        )
+      )
+      (net U2_16
+        (wire
+          (path 1 1000
+            243701 -84472
+            237232 -84472
+            236752 -84952
+            234379 -84952
+            229278 -79851
+            229278 -79160
+          )
+        )
+        (wire
+          (path 21 1000
+            95953 -65208
+            137560 -65208
+            145926 -73574
+            158774 -73574
+            161648 -70700
+            182492 -70700
+            190952 -79160
+            229278 -79160
+          )
+        )
+        (wire
+          (path 1 1000
+            90723 -65176
+            95921 -65176
+            95953 -65208
+          )
+        )
+        (via via1 95953 -65208
+        )
+        (via via1 229278 -79160
+        )
+      )
+      (net U2_26
+        (wire
+          (path 1 1000
+            106897 -57888
+            106897 -66381
+            110811 -70295
+            117658 -70295
+          )
+        )
+        (wire
+          (path 21 1000
+            106897 -57888
+            110900 -53885
+            130103 -53885
+            131613 -55395
+            133535 -55395
+            134307 -54623
+            188433 -54623
+          )
+        )
+        (wire
+          (path 1 1000
+            188433 -54623
+            190592 -52464
+            224005 -52464
+            236328 -64787
+            243701 -64787
+          )
+        )
+        (via via1 188433 -54623
+        )
+        (via via1 106897 -57888
+        )
+      )
+      (net U2_29
+        (wire
+          (path 1 1000
+            243701 -58882
+            248473 -58882
+            253117 -63526
+            253117 -73057
+          )
+        )
+        (wire
+          (path 2 1000
+            142686 -171117
+            155291 -183722
+            219231 -183722
+            226965 -175988
+            226965 -174306
+            228325 -172946
+            230007 -172946
+            253117 -149836
+            253117 -73057
+          )
+        )
+        (wire
+          (path 1 1000
+            131158 -171117
+            142686 -171117
+          )
+        )
+        (via via1 253117 -73057
+        )
+        (via via1 142686 -171117
+        )
+      )
+      (net U3_7
+        (wire
+          (path 1 1000
+            204208 -167216
+            204208 -161572
+            203889 -161253
+            203889 -158328
+            208561 -153656
+          )
+        )
+        (wire
+          (path 2 1000
+            203656 -76494
+            209720 -82558
+            209720 -152497
+            208561 -153656
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -67735
+            194897 -67735
+            203656 -76494
+          )
+        )
+        (via via1 208561 -153656
+        )
+        (via via1 203656 -76494
+        )
+      )
+      (net U3_24
+        (wire
+          (path 2 1000
+            147379 -60953
+            152868 -60953
+            165236 -73321
+            165236 -78792
+            179285 -92841
+            179285 -94619
+            201253 -116587
+            201253 -123411
+            203849 -126007
+          )
+        )
+        (wire
+          (path 1 1000
+            237673 -167216
+            237673 -159831
+            203849 -126007
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -60058
+            146484 -60058
+            147379 -60953
+          )
+        )
+        (via via1 147379 -60953
+        )
+        (via via1 203849 -126007
+        )
+      )
+      (net U3_28
+        (wire
+          (path 21 1000
+            244571 -161851
+            237864 -168558
+            158948 -168558
+          )
+        )
+        (wire
+          (path 1 1000
+            245547 -167216
+            245547 -162555
+          )
+        )
+        (wire
+          (path 1 1000
+            245547 -162555
+            245275 -162555
+            244571 -161851
+          )
+        )
+        (wire
+          (path 1 1000
+            153723 -168558
+            158948 -168558
+          )
+        )
+        (via via1 244571 -161851
+        )
+        (via via1 158948 -168558
+        )
+      )
+      (net U2_18
+        (wire
+          (path 1 1000
+            239041 -80535
+            238815 -80309
+            236317 -80309
+            224359 -68351
+          )
+        )
+        (wire
+          (path 21 1000
+            80044 -66398
+            86553 -66398
+            90380 -62571
+            145436 -62571
+            149227 -66362
+            157775 -66362
+            158867 -67454
+            183851 -67454
+            184748 -68351
+            224359 -68351
+          )
+        )
+        (wire
+          (path 1 1000
+            68158 -70295
+            76147 -70295
+            80044 -66398
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -80535
+            239041 -80535
+          )
+        )
+        (via via1 224359 -68351
+        )
+        (via via1 80044 -66398
+        )
+      )
+      (net U2_6
+        (wire
+          (path 1 1000
+            239041 -104157
+            232969 -104157
+            231992 -103180
+          )
+        )
+        (wire
+          (path 21 1000
+            122930 -99698
+            124710 -97918
+            177999 -97918
+            179303 -99222
+            201232 -99222
+            205190 -103180
+            231992 -103180
+          )
+        )
+        (wire
+          (path 1 1000
+            117658 -100295
+            122333 -100295
+            122930 -99698
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -104157
+            239041 -104157
+          )
+        )
+        (via via1 231992 -103180
+        )
+        (via via1 122930 -99698
+        )
+      )
+      (net U2_7
+        (wire
+          (path 1 1000
+            239041 -102189
+            238709 -102521
+            235688 -102521
+            233694 -100527
+          )
+        )
+        (wire
+          (path 2 1000
+            198032 -74163
+            207330 -74163
+            233694 -100527
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -102189
+            239041 -102189
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -72854
+            196723 -72854
+            198032 -74163
+          )
+        )
+        (via via1 233694 -100527
+        )
+        (via via1 198032 -74163
+        )
+      )
+      (net U3_30
+        (wire
+          (path 21 1000
+            249484 -172584
+            247149 -170249
+            168131 -170249
+            167299 -171081
+            152517 -171081
+            150082 -173516
+            136410 -173516
+          )
+        )
+        (wire
+          (path 1 1000
+            249484 -167216
+            249484 -172584
+          )
+        )
+        (wire
+          (path 1 1000
+            131158 -173676
+            136250 -173676
+            136410 -173516
+          )
+        )
+        (via via1 249484 -172584
+        )
+        (via via1 136410 -173516
+        )
+      )
+      (net U3_29
+        (wire
+          (path 1 1000
+            247515 -160421
+            247515 -167216
+          )
+        )
+        (wire
+          (path 21 1000
+            136185 -164517
+            237502 -164517
+            242572 -159447
+            246541 -159447
+            247515 -160421
+          )
+        )
+        (via via1 247515 -160421
+        )
+        (via via1 136185 -164517
+        )
+        (wire
+          (path 1 1000
+            131158 -165999
+            134703 -165999
+            136185 -164517
+          )
+        )
+      )
+      (net U3_27
+        (wire
+          (path 1 1000
+            153723 -176235
+            166008 -176235
+            172558 -182785
+            232669 -182785
+            243578 -171876
+          )
+        )
+        (wire
+          (path 1 1000
+            243578 -167216
+            243578 -171876
+          )
+        )
+      )
+      (net U2_25
+        (wire
+          (path 2 1000
+            225771 -65076
+            218208 -57513
+            183714 -57513
+            182407 -56206
+            128169 -56206
+          )
+        )
+        (wire
+          (path 1 1000
+            117658 -62617
+            114424 -62617
+            112980 -61173
+            112980 -56381
+            114723 -54638
+            126601 -54638
+            128169 -56206
+          )
+        )
+        (wire
+          (path 1 1000
+            225771 -65076
+            233391 -65076
+            235071 -66756
+            243701 -66756
+          )
+        )
+        (via via1 225771 -65076
+        )
+        (via via1 128169 -56206
+        )
+      )
+      (net U2_24
+        (wire
+          (path 1 1000
+            239041 -68724
+            232773 -68724
+            232486 -68437
+          )
+        )
+        (wire
+          (path 21 1000
+            152383 -63991
+            157696 -63991
+            158834 -65129
+            174297 -65129
+            176829 -62597
+            226646 -62597
+            232486 -68437
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -65176
+            151198 -65176
+            152383 -63991
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -68724
+            239041 -68724
+          )
+        )
+        (via via1 232486 -68437
+        )
+        (via via1 152383 -63991
+        )
+      )
+      (net U2_23
+        (wire
+          (path 1 1000
+            140223 -72854
+            145042 -72854
+            146765 -71131
+          )
+        )
+        (wire
+          (path 21 1000
+            230557 -70824
+            184908 -70824
+            183163 -69079
+            159920 -69079
+            157868 -71131
+            146765 -71131
+          )
+        )
+        (wire
+          (path 1 1000
+            230557 -70824
+            238910 -70824
+            239041 -70693
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -70693
+            239041 -70693
+          )
+        )
+        (via via1 230557 -70824
+        )
+        (via via1 146765 -71131
+        )
+      )
+      (net U2_4
+        (wire
+          (path 1 1000
+            239041 -108094
+            238746 -107799
+            230908 -107799
+            230816 -107891
+          )
+        )
+        (wire
+          (path 21 1000
+            150199 -100381
+            150661 -100843
+            197573 -100843
+            204621 -107891
+            230816 -107891
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -95176
+            144994 -95176
+            150199 -100381
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -108094
+            239041 -108094
+          )
+        )
+        (via via1 230816 -107891
+        )
+        (via via1 150199 -100381
+        )
+      )
+      (net U2_3
+        (wire
+          (path 21 1000
+            237576 -110120
+            237484 -110212
+            196694 -110212
+            191504 -105022
+            164071 -105022
+            163489 -105604
+            148204 -105604
+            145454 -102854
+          )
+        )
+        (wire
+          (path 1 1000
+            239041 -110063
+            238984 -110120
+            237576 -110120
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -102854
+            145454 -102854
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -110063
+            239041 -110063
+          )
+        )
+        (via via1 237576 -110120
+        )
+        (via via1 145454 -102854
+        )
+      )
+      (net U1_30
+        (wire
+          (path 1 1000
+            131158 -176235
+            111379 -176235
+            101360 -166216
+            80484 -166216
+          )
+        )
+      )
+      (net U1_29
+        (wire
+          (path 1 1000
+            78515 -166216
+            78515 -161555
+          )
+        )
+        (wire
+          (path 1 1000
+            131158 -168558
+            109088 -168558
+            102081 -161551
+            78519 -161551
+            78515 -161555
+          )
+        )
+      )
+      (net U1_27
+        (wire
+          (path 1 1000
+            153723 -178795
+            142196 -178795
+            135042 -185949
+            87308 -185949
+            74578 -173219
+            74578 -166216
+          )
+        )
+      )
+      (net U1_22
+        (wire
+          (path 1 1000
+            68158 -97735
+            73411 -97735
+          )
+        )
+        (wire
+          (path 22 1000
+            66368 -157835
+            68600 -155603
+            68600 -102546
+            73411 -97735
+          )
+        )
+        (wire
+          (path 1 1000
+            66368 -157835
+            64736 -159467
+            64736 -166216
+          )
+        )
+        (via via1 66368 -157835
+        )
+        (via via1 73411 -97735
+        )
+      )
+      (net U2_5
+        (wire
+          (path 1 1000
+            117658 -92617
+            113669 -92617
+            112474 -91422
+          )
+        )
+        (wire
+          (path 21 1000
+            112474 -91422
+            113491 -92439
+            180386 -92439
+            181606 -93659
+          )
+        )
+        (wire
+          (path 1 1000
+            181606 -93659
+            179858 -95407
+            179858 -117531
+            181680 -119353
+            198894 -119353
+            212745 -105502
+            231839 -105502
+            232463 -106126
+            243701 -106126
+          )
+        )
+        (via via1 181606 -93659
+        )
+        (via via1 112474 -91422
+        )
+      )
+      (net U2_20
+        (wire
+          (path 21 1000
+            97706 -95176
+            99059 -96529
+            108153 -96529
+            108732 -95950
+            178323 -95950
+            179974 -97601
+            195089 -97601
+            199879 -92811
+            233648 -92811
+            249111 -77348
+          )
+        )
+        (wire
+          (path 1 1000
+            90723 -95176
+            97706 -95176
+          )
+        )
+        (wire
+          (path 1 1000
+            249111 -77348
+            248361 -76598
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -76598
+            248361 -76598
+          )
+        )
+        (via via1 249111 -77348
+        )
+        (via via1 97706 -95176
+        )
+      )
+      (net U3_19
+        (wire
+          (path 1 1000
+            90723 -97735
+            95955 -97735
+          )
+        )
+        (wire
+          (path 2 1000
+            98693 -124911
+            95335 -121553
+            95335 -98355
+            95955 -97735
+          )
+        )
+        (wire
+          (path 1 1000
+            227830 -161163
+            227830 -167216
+          )
+        )
+        (wire
+          (path 21 1000
+            98693 -124911
+            101298 -127516
+            200159 -127516
+            227830 -155187
+            227830 -161163
+          )
+        )
+        (via via1 227830 -161163
+        )
+        (via via1 98693 -124911
+        )
+        (via via1 95955 -97735
+        )
+      )
+      (net U2_11
+        (wire
+          (path 1 1000
+            241732 -92346
+            243701 -94315
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -92346
+            241732 -92346
+          )
+        )
+        (wire
+          (path 1 1000
+            241371 -92346
+            239041 -92346
+          )
+        )
+        (wire
+          (path 1 1000
+            241371 -92346
+            241732 -92346
+          )
+        )
+        (wire
+          (path 1 1000
+            195020 -97044
+            195020 -100780
+            192946 -102854
+            190223 -102854
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -95176
+            193152 -95176
+            195020 -97044
+          )
+        )
+        (wire
+          (path 1 1000
+            195020 -97044
+            199277 -92787
+            238600 -92787
+            239041 -92346
+          )
+        )
+      )
+      (net U1_3
+        (wire
+          (path 2 1000
+            28098 -171628
+            32189 -167537
+            69202 -167537
+            134967 -101772
+            134967 -100295
+          )
+        )
+        (wire
+          (path 1 1000
+            27334 -170876
+            27346 -170876
+            28098 -171628
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -100295
+            134967 -100295
+          )
+        )
+        (wire
+          (path 1 1000
+            27334 -166216
+            27334 -170876
+          )
+        )
+        (via via1 28098 -171628
+        )
+        (via via1 134967 -100295
+        )
+      )
+      (net U1_4
+        (wire
+          (path 1 1000
+            109266 -114044
+            117602 -114044
+            128747 -102899
+            128747 -100736
+            136866 -92617
+            140223 -92617
+          )
+        )
+        (wire
+          (path 21 1000
+            29460 -160813
+            76229 -114044
+            109266 -114044
+          )
+        )
+        (wire
+          (path 1 1000
+            29303 -161555
+            29460 -161398
+            29460 -160813
+          )
+        )
+        (wire
+          (path 1 1000
+            29303 -166216
+            29303 -161555
+          )
+        )
+        (via via1 29460 -160813
+        )
+        (via via1 109266 -114044
+        )
+      )
+      (net U1_5
+        (wire
+          (path 1 1000
+            117658 -90058
+            120567 -90058
+            125415 -94906
+            125415 -103648
+            117704 -111359
+            106598 -111359
+            90621 -127336
+          )
+        )
+        (wire
+          (path 21 1000
+            31491 -171608
+            38578 -164521
+            46188 -164521
+            83373 -127336
+            90621 -127336
+          )
+        )
+        (wire
+          (path 1 1000
+            31271 -166216
+            31271 -171388
+            31491 -171608
+          )
+        )
+        (via via1 31491 -171608
+        )
+        (via via1 90621 -127336
+        )
+      )
+      (net U1_6
+        (wire
+          (path 1 1000
+            33240 -166216
+            33240 -160804
+          )
+        )
+        (wire
+          (path 2 1000
+            108509 -107210
+            111808 -110509
+            111808 -115079
+            93054 -133833
+            91239 -133833
+            69026 -156046
+            69026 -158530
+            64052 -163504
+            35940 -163504
+            33240 -160804
+          )
+        )
+        (wire
+          (path 1 1000
+            117658 -97735
+            114136 -97735
+            113129 -98742
+            113129 -102590
+            108509 -107210
+          )
+        )
+        (via via1 33240 -160804
+        )
+        (via via1 108509 -107210
+        )
+      )
+      (net U1_7
+        (wire
+          (path 21 1000
+            173850 -76135
+            169018 -80967
+            31791 -80967
+            30999 -80175
+            28681 -80175
+            25738 -83118
+            25738 -172551
+            27244 -174057
+            32777 -174057
+            35208 -171626
+          )
+        )
+        (wire
+          (path 1 1000
+            173850 -76135
+            181799 -76135
+            183857 -74077
+            183857 -73230
+            186792 -70295
+            190223 -70295
+          )
+        )
+        (wire
+          (path 1 1000
+            35208 -171626
+            35208 -166216
+          )
+        )
+        (via via1 35208 -171626
+        )
+        (via via1 173850 -76135
+        )
+      )
+      (net U1_8
+        (wire
+          (path 2 1000
+            78107 -52264
+            40649 -89722
+            40649 -157166
+            37177 -160638
+            37177 -160710
+          )
+        )
+        (wire
+          (path 21 1000
+            194463 -54843
+            190373 -50753
+            79618 -50753
+            78107 -52264
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -62617
+            196371 -62617
+            198142 -60846
+            198142 -58522
+            194463 -54843
+          )
+        )
+        (wire
+          (path 1 1000
+            37177 -160710
+            37177 -166216
+          )
+        )
+        (via via1 37177 -160710
+        )
+        (via via1 78107 -52264
+        )
+        (via via1 194463 -54843
+        )
+      )
+      (net U1_9
+        (wire
+          (path 21 1000
+            147583 -75944
+            136265 -75944
+            134990 -74669
+            113414 -74669
+            110185 -77898
+            28560 -77898
+            23650 -82808
+            23650 -172806
+            27024 -176180
+            34582 -176180
+            39145 -171617
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -60058
+            161533 -60058
+            147583 -74008
+            147583 -75944
+          )
+        )
+        (wire
+          (path 1 1000
+            39145 -171617
+            39145 -166216
+          )
+        )
+        (via via1 39145 -171617
+        )
+        (via via1 147583 -75944
+        )
+      )
+      (net U1_10
+        (wire
+          (path 1 1000
+            41114 -166216
+            41114 -159983
+            41594 -159503
+          )
+        )
+        (wire
+          (path 22 1000
+            156327 -68683
+            152897 -68683
+            149207 -64993
+            126244 -64993
+            123664 -62413
+            89420 -62413
+            83129 -68704
+            81301 -68704
+            63350 -86655
+            61927 -86655
+            41594 -106988
+            41594 -159503
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -67735
+            157275 -67735
+            156327 -68683
+          )
+        )
+        (via via1 41594 -159503
+        )
+        (via via1 156327 -68683
+        )
+      )
+      (net U1_11
+        (wire
+          (path 1 1000
+            186698 -113282
+            186698 -108374
+            185683 -107359
+            185683 -101855
+            187243 -100295
+            190223 -100295
+          )
+        )
+        (wire
+          (path 21 1000
+            129434 -121671
+            174032 -121671
+            182421 -113282
+            186698 -113282
+          )
+        )
+        (wire
+          (path 2 1000
+            43082 -171658
+            45721 -174297
+            76808 -174297
+            129434 -121671
+          )
+        )
+        (wire
+          (path 1 1000
+            43082 -171658
+            43082 -166216
+          )
+        )
+        (via via1 43082 -171658
+        )
+        (via via1 129434 -121671
+        )
+        (via via1 186698 -113282
+        )
+      )
+      (net U1_12
+        (wire
+          (path 21 1000
+            44758 -158446
+            44758 -158445
+            49784 -158445
+            80915 -127314
+            80915 -124823
+            83230 -122508
+            99616 -122508
+            101248 -124140
+            174844 -124140
+            182319 -116665
+          )
+        )
+        (wire
+          (path 1 1000
+            45051 -166216
+            45051 -158739
+            44758 -158446
+          )
+        )
+        (wire
+          (path 1 1000
+            182319 -116665
+            181689 -116035
+            181689 -98115
+            187187 -92617
+            190223 -92617
+          )
+        )
+        (via via1 44758 -158446
+        )
+        (via via1 182319 -116665
+        )
+      )
+      (net U1_13
+        (wire
+          (path 2 1000
+            172921 -90058
+            172921 -97620
+            159145 -111396
+          )
+        )
+        (wire
+          (path 21 1000
+            47009 -154299
+            47009 -153144
+            83349 -116804
+            153737 -116804
+            159145 -111396
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -90058
+            172921 -90058
+          )
+        )
+        (wire
+          (path 1 1000
+            47019 -161555
+            47079 -161495
+            47079 -154369
+            47009 -154299
+          )
+        )
+        (wire
+          (path 1 1000
+            47019 -166216
+            47019 -161555
+          )
+        )
+        (via via1 47009 -154299
+        )
+        (via via1 159145 -111396
+        )
+        (via via1 172921 -90058
+        )
+      )
+      (net U1_14
+        (wire
+          (path 1 1000
+            167658 -97735
+            170518 -97735
+            172417 -99634
+            172417 -107194
+            168159 -111452
+          )
+        )
+        (wire
+          (path 21 1000
+            50117 -154525
+            50117 -152839
+            83867 -119089
+            160522 -119089
+            168159 -111452
+          )
+        )
+        (wire
+          (path 1 1000
+            50117 -154525
+            48988 -155654
+            48988 -166216
+          )
+        )
+        (via via1 50117 -154525
+        )
+        (via via1 168159 -111452
+        )
+      )
+      (net U1_15
+        (wire
+          (path 1 1000
+            50956 -166216
+            50956 -159459
+            57153 -153262
+            64314 -153262
+          )
+        )
+        (wire
+          (path 22 1000
+            85435 -70416
+            83117 -72734
+            83117 -75288
+            73910 -84495
+            73149 -84495
+            64314 -93330
+            64314 -153262
+          )
+        )
+        (wire
+          (path 1 1000
+            90723 -70295
+            85556 -70295
+            85435 -70416
+          )
+        )
+        (via via1 64314 -153262
+        )
+        (via via1 85435 -70416
+        )
+      )
+      (net U1_18
+        (wire
+          (path 2 1000
+            61689 -74268
+            60495 -75462
+            60495 -99493
+            55775 -104213
+            55775 -158873
+          )
+        )
+        (wire
+          (path 1 1000
+            68158 -67735
+            65060 -67735
+            61689 -71106
+            61689 -74268
+          )
+        )
+        (wire
+          (path 1 1000
+            56862 -166216
+            56862 -159960
+            55775 -158873
+          )
+        )
+        (via via1 55775 -158873
+        )
+        (via via1 61689 -74268
+        )
+      )
+      (net U1_19
+        (wire
+          (path 1 1000
+            73402 -106007
+            79114 -100295
+            90723 -100295
+          )
+        )
+        (wire
+          (path 2 1000
+            58830 -158546
+            58830 -120579
+            73402 -106007
+          )
+        )
+        (wire
+          (path 1 1000
+            58830 -161555
+            58830 -158546
+          )
+        )
+        (wire
+          (path 1 1000
+            58830 -166216
+            58830 -161555
+          )
+        )
+        (via via1 58830 -158546
+        )
+        (via via1 73402 -106007
+        )
+      )
+      (net U1_20
+        (wire
+          (path 2 1000
+            62034 -160849
+            62034 -158887
+            86354 -134567
+            86354 -97734
+            85030 -96410
+          )
+        )
+        (wire
+          (path 1 1000
+            60799 -161555
+            61328 -161555
+            62034 -160849
+          )
+        )
+        (wire
+          (path 1 1000
+            85030 -96410
+            85030 -95384
+            87797 -92617
+            90723 -92617
+          )
+        )
+        (wire
+          (path 1 1000
+            60799 -166216
+            60799 -161555
+          )
+        )
+        (via via1 62034 -160849
+        )
+        (via via1 85030 -96410
+        )
+      )
+      (net U1_21
+        (wire
+          (path 1 1000
+            68158 -90058
+            62816 -90058
+          )
+        )
+        (wire
+          (path 22 1000
+            62915 -171630
+            64377 -170168
+            64377 -159208
+            61976 -156807
+            61976 -90898
+            62816 -90058
+          )
+        )
+        (wire
+          (path 1 1000
+            62915 -171630
+            62767 -171482
+            62767 -166216
+          )
+        )
+        (via via1 62915 -171630
+        )
+        (via via1 62816 -90058
+        )
+      )
+      (net U1_24
+        (wire
+          (path 2 1000
+            75200 -155828
+            75200 -154788
+            78585 -151403
+            80068 -151403
+            128747 -102724
+            128747 -71415
+            131872 -68290
+          )
+        )
+        (wire
+          (path 1 1000
+            140223 -62617
+            137265 -62617
+            131872 -68010
+            131872 -68290
+          )
+        )
+        (wire
+          (path 1 1000
+            68673 -161555
+            68868 -161360
+            68868 -158494
+            71534 -155828
+            75200 -155828
+          )
+        )
+        (wire
+          (path 1 1000
+            68673 -166216
+            68673 -161555
+          )
+        )
+        (via via1 75200 -155828
+        )
+        (via via1 131872 -68290
+        )
+      )
+      (net U1_26
+        (wire
+          (path 22 1000
+            79546 -153729
+            101014 -132261
+            101014 -74755
+            108034 -67735
+            111664 -67735
+          )
+        )
+        (wire
+          (path 1 1000
+            72610 -161555
+            73266 -161555
+            79546 -155275
+            79546 -153729
+          )
+        )
+        (wire
+          (path 1 1000
+            117658 -67735
+            111664 -67735
+          )
+        )
+        (wire
+          (path 1 1000
+            72610 -166216
+            72610 -161555
+          )
+        )
+        (via via1 79546 -153729
+        )
+        (via via1 111664 -67735
+        )
+      )
+      (net U1_28
+        (wire
+          (path 1 1000
+            76547 -166216
+            76547 -161147
+            78168 -159526
+            138507 -159526
+            150098 -171117
+            153723 -171117
+          )
+        )
+      )
+      (net U2_8
+        (wire
+          (path 1 1000
+            239041 -100220
+            236755 -100220
+            236734 -100199
+          )
+        )
+        (wire
+          (path 2 1000
+            197959 -65176
+            201711 -65176
+            236734 -100199
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -65176
+            197959 -65176
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -100220
+            239041 -100220
+          )
+        )
+        (via via1 236734 -100199
+        )
+        (via via1 197959 -65176
+        )
+      )
+      (net U2_9
+        (wire
+          (path 1 1000
+            239041 -98252
+            238681 -98252
+            238123 -97694
+            208243 -97694
+            205760 -100177
+          )
+        )
+        (wire
+          (path 2 1000
+            172919 -62617
+            172919 -71898
+            201198 -100177
+            205760 -100177
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -62617
+            172919 -62617
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -98252
+            239041 -98252
+          )
+        )
+        (via via1 172919 -62617
+        )
+        (via via1 205760 -100177
+        )
+      )
+      (net U2_10
+        (wire
+          (path 1 1000
+            167658 -70295
+            174763 -70295
+            177862 -73394
+          )
+        )
+        (wire
+          (path 2 1000
+            204086 -95515
+            199983 -95515
+            177862 -73394
+          )
+        )
+        (wire
+          (path 1 1000
+            239041 -96283
+            238273 -95515
+            204086 -95515
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -96283
+            239041 -96283
+          )
+        )
+        (via via1 177862 -73394
+        )
+        (via via1 204086 -95515
+        )
+      )
+      (net U2_13
+        (wire
+          (path 1 1000
+            243701 -90378
+            206921 -90378
+            201592 -85049
+            185699 -85049
+            178131 -92617
+            167658 -92617
+          )
+        )
+      )
+      (net U2_14
+        (wire
+          (path 1 1000
+            167658 -100295
+            164586 -100295
+            162847 -98556
+            162847 -87006
+            166564 -83289
+            208359 -83289
+            213479 -88409
+            243701 -88409
+          )
+        )
+      )
+      (net U2_15
+        (wire
+          (path 1 1000
+            243701 -86441
+            239041 -86441
+          )
+        )
+        (wire
+          (path 1 1000
+            90723 -72854
+            95180 -72854
+            103792 -81466
+            221326 -81466
+            226459 -86599
+            238883 -86599
+            239041 -86441
+          )
+        )
+      )
+      (net U2_17
+        (wire
+          (path 1 1000
+            243701 -82504
+            235691 -82504
+            235565 -82630
+          )
+        )
+        (wire
+          (path 21 1000
+            80137 -60300
+            80154 -60283
+            135366 -60283
+            138929 -56720
+            186682 -56720
+            187212 -57250
+            224896 -57250
+            239280 -71634
+            239280 -78915
+            235565 -82630
+          )
+        )
+        (wire
+          (path 1 1000
+            68158 -62617
+            71764 -62617
+            73308 -64161
+            76276 -64161
+            80137 -60300
+          )
+        )
+        (via via1 235565 -82630
+        )
+        (via via1 80137 -60300
+        )
+      )
+      (net U2_19
+        (wire
+          (path 21 1000
+            105701 -94122
+            178787 -94122
+            180645 -95980
+            192313 -95980
+            200662 -87631
+            226672 -87631
+            236841 -77462
+          )
+        )
+        (wire
+          (path 1 1000
+            236841 -77462
+            237946 -78567
+            243701 -78567
+          )
+        )
+        (via via1 236841 -77462
+        )
+        (via via1 105701 -94122
+        )
+        (wire
+          (path 1 1000
+            90723 -102854
+            96969 -102854
+            105701 -94122
+          )
+        )
+      )
+      (net U2_21
+        (wire
+          (path 1 1000
+            68158 -92617
+            71685 -92617
+            80230 -84072
+            80230 -74805
+          )
+        )
+        (wire
+          (path 2 1000
+            249137 -73740
+            251436 -71441
+            251436 -61844
+            227557 -37965
+            114604 -37965
+            80230 -72339
+            80230 -74805
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -74630
+            248361 -74630
+          )
+        )
+        (wire
+          (path 1 1000
+            249137 -73740
+            248361 -74516
+            248361 -74630
+          )
+        )
+        (via via1 249137 -73740
+        )
+        (via via1 80230 -74805
+        )
+      )
+      (net U2_22
+        (wire
+          (path 1 1000
+            68158 -100295
+            76278 -100295
+            81004 -95569
+          )
+        )
+        (wire
+          (path 21 1000
+            235830 -73176
+            232382 -76624
+            232382 -79377
+            228868 -82891
+            93682 -82891
+            81004 -95569
+          )
+        )
+        (wire
+          (path 1 1000
+            235830 -73176
+            236345 -72661
+            243701 -72661
+          )
+        )
+        (via via1 235830 -73176
+        )
+        (via via1 81004 -95569
+        )
+      )
+      (net U2_27
+        (wire
+          (path 2 1000
+            158965 -181354
+            219287 -181354
+            225344 -175297
+            225344 -173635
+            227654 -171325
+            229316 -171325
+            244354 -156287
+            244354 -67532
+            249067 -62819
+          )
+        )
+        (wire
+          (path 1 1000
+            248361 -62819
+            249067 -62819
+          )
+        )
+        (wire
+          (path 1 1000
+            153723 -181354
+            158965 -181354
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -62819
+            248361 -62819
+          )
+        )
+        (via via1 249067 -62819
+        )
+        (via via1 158965 -181354
+        )
+      )
+      (net U2_28
+        (wire
+          (path 2 1000
+            159062 -173676
+            164018 -178632
+            214241 -178632
+            219669 -173204
+            219669 -124194
+            239172 -104691
+            239172 -63522
+            238005 -62355
+          )
+        )
+        (wire
+          (path 1 1000
+            243701 -60850
+            239041 -60850
+          )
+        )
+        (wire
+          (path 1 1000
+            153723 -173676
+            159062 -173676
+          )
+        )
+        (wire
+          (path 1 1000
+            239041 -60850
+            239041 -61319
+            238005 -62355
+          )
+        )
+        (via via1 238005 -62355
+        )
+        (via via1 159062 -173676
+        )
+      )
+      (net U3_3
+        (wire
+          (path 1 1000
+            140223 -97735
+            143632 -97735
+            147786 -101889
+            147786 -107414
+            196334 -155962
+            196334 -167216
+          )
+        )
+      )
+      (net U3_4
+        (wire
+          (path 1 1000
+            140223 -90058
+            143206 -90058
+            198086 -144938
+            198086 -162338
+            198303 -162555
+          )
+        )
+        (wire
+          (path 1 1000
+            198303 -167216
+            198303 -162555
+          )
+        )
+      )
+      (net U3_5
+        (wire
+          (path 1 1000
+            117658 -87499
+            133135 -87499
+            133455 -87819
+          )
+        )
+        (wire
+          (path 2 1000
+            200407 -161253
+            142818 -103664
+            142818 -97182
+            133455 -87819
+          )
+        )
+        (wire
+          (path 1 1000
+            200271 -167216
+            200271 -161389
+            200407 -161253
+          )
+        )
+        (via via1 200407 -161253
+        )
+        (via via1 133455 -87819
+        )
+      )
+      (net U3_6
+        (wire
+          (path 1 1000
+            117658 -95176
+            113861 -95176
+            110737 -98300
+          )
+        )
+        (wire
+          (path 22 1000
+            194325 -173579
+            186016 -173579
+            110737 -98300
+          )
+        )
+        (wire
+          (path 1 1000
+            202240 -171876
+            200537 -173579
+            194325 -173579
+          )
+        )
+        (wire
+          (path 1 1000
+            202240 -167216
+            202240 -171876
+          )
+        )
+        (via via1 194325 -173579
+        )
+        (via via1 110737 -98300
+        )
+      )
+      (net U3_8
+        (wire
+          (path 2 1000
+            206226 -160264
+            206226 -145433
+            208099 -143560
+            208099 -87966
+            195524 -75391
+            195524 -59848
+          )
+        )
+        (wire
+          (path 1 1000
+            206177 -162555
+            206226 -162506
+            206226 -160264
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -60058
+            190433 -59848
+            195524 -59848
+          )
+        )
+        (wire
+          (path 1 1000
+            206177 -167216
+            206177 -162555
+          )
+        )
+        (via via1 206226 -160264
+        )
+        (via via1 195524 -59848
+        )
+      )
+      (net U3_9
+        (wire
+          (path 22 1000
+            209460 -172590
+            202924 -166054
+            202924 -159685
+            199302 -156063
+            199302 -98304
+            175531 -74533
+            175531 -61681
+            173052 -59202
+          )
+        )
+        (wire
+          (path 1 1000
+            208145 -167216
+            208145 -171876
+          )
+        )
+        (wire
+          (path 1 1000
+            208145 -171876
+            208746 -171876
+            209460 -172590
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -57499
+            171349 -57499
+            173052 -59202
+          )
+        )
+        (via via1 209460 -172590
+        )
+        (via via1 173052 -59202
+        )
+      )
+      (net U3_10
+        (wire
+          (path 22 1000
+            210114 -161725
+            210114 -160187
+            205487 -155560
+            205487 -133398
+            200923 -128834
+            200923 -97433
+            181536 -78046
+            181536 -73115
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -65176
+            173597 -65176
+            181536 -73115
+          )
+        )
+        (wire
+          (path 1 1000
+            210114 -161725
+            210114 -167216
+          )
+        )
+        (via via1 210114 -161725
+        )
+        (via via1 181536 -73115
+        )
+      )
+      (net U3_11
+        (wire
+          (path 1 1000
+            190223 -97735
+            187134 -97735
+            184047 -100822
+            184047 -109006
+            184142 -109101
+          )
+        )
+        (wire
+          (path 22 1000
+            212482 -172582
+            212482 -172851
+            210421 -174912
+            208302 -174912
+            184640 -151250
+            184640 -115703
+            184142 -115205
+            184142 -109101
+          )
+        )
+        (wire
+          (path 1 1000
+            212082 -167216
+            212082 -172182
+            212482 -172582
+          )
+        )
+        (via via1 212482 -172582
+        )
+        (via via1 184142 -109101
+        )
+      )
+      (net U3_12
+        (wire
+          (path 22 1000
+            201935 -90058
+            214051 -102174
+            214051 -161851
+          )
+        )
+        (wire
+          (path 1 1000
+            190223 -90058
+            201935 -90058
+          )
+        )
+        (wire
+          (path 1 1000
+            214051 -161851
+            214051 -167216
+          )
+        )
+        (via via1 214051 -161851
+        )
+        (via via1 201935 -90058
+        )
+      )
+      (net U3_13
+        (wire
+          (path 2 1000
+            216913 -172600
+            210224 -165911
+            208050 -165911
+            203904 -161765
+            203904 -142647
+            206208 -140343
+            206208 -122657
+            203424 -119873
+            203424 -111929
+            178994 -87499
+            177479 -87499
+          )
+        )
+        (wire
+          (path 1 1000
+            216913 -172600
+            216189 -171876
+            216019 -171876
+          )
+        )
+        (wire
+          (path 1 1000
+            167658 -87499
+            177479 -87499
+          )
+        )
+        (wire
+          (path 1 1000
+            216019 -167216
+            216019 -171876
+          )
+        )
+        (via via1 216913 -172600
+        )
+        (via via1 177479 -87499
+        )
+      )
+      (net U3_14
+        (wire
+          (path 1 1000
+            167658 -95176
+            170663 -95176
+            178131 -102644
+            178131 -119535
+            217988 -159392
+            217988 -162555
+          )
+        )
+        (wire
+          (path 1 1000
+            217988 -167216
+            217988 -162555
+          )
+        )
+      )
+      (net U3_16
+        (wire
+          (path 1 1000
+            90723 -60058
+            96132 -60058
+            105229 -69155
+            105229 -73936
+          )
+        )
+        (wire
+          (path 22 1000
+            202947 -175131
+            105229 -77413
+            105229 -73936
+          )
+        )
+        (wire
+          (path 1 1000
+            202947 -175131
+            218243 -175131
+            221498 -171876
+            221925 -171876
+          )
+        )
+        (wire
+          (path 1 1000
+            221925 -167216
+            221925 -171876
+          )
+        )
+        (via via1 202947 -175131
+        )
+        (via via1 105229 -73936
+        )
+      )
+      (net U3_17
+        (wire
+          (path 2 1000
+            74187 -61758
+            71850 -64095
+            71850 -75565
+            75817 -79532
+            75817 -93843
+            75594 -94066
+            75594 -95988
+            75817 -96211
+            75817 -125781
+            83809 -133773
+          )
+        )
+        (wire
+          (path 21 1000
+            83809 -133773
+            126489 -176453
+            195772 -176453
+            199479 -172746
+            204216 -172746
+            206826 -175356
+            221442 -175356
+            222543 -174255
+          )
+        )
+        (wire
+          (path 1 1000
+            222543 -174255
+            223893 -172905
+            223893 -167216
+          )
+        )
+        (via via1 222543 -174255
+        )
+        (via via1 83809 -133773
+        )
+        (via via1 74187 -61758
+        )
+        (wire
+          (path 1 1000
+            68158 -57499
+            70928 -57499
+            74187 -60758
+            74187 -61758
+          )
+        )
+      )
+      (net U3_18
+        (wire
+          (path 2 1000
+            74171 -67507
+            74171 -73001
+            92947 -91777
+            92947 -130648
+          )
+        )
+        (wire
+          (path 21 1000
+            92947 -130648
+            119368 -157069
+            219800 -157069
+            224526 -161795
+          )
+        )
+        (wire
+          (path 1 1000
+            68158 -65176
+            71840 -65176
+            74171 -67507
+          )
+        )
+        (wire
+          (path 1 1000
+            225862 -162555
+            225286 -162555
+            224526 -161795
+          )
+        )
+        (wire
+          (path 1 1000
+            225862 -167216
+            225862 -162555
+          )
+        )
+        (via via1 224526 -161795
+        )
+        (via via1 92947 -130648
+        )
+        (via via1 74171 -67507
+        )
+      )
+      (net U3_20
+        (wire
+          (path 1 1000
+            90723 -90058
+            107758 -90058
+          )
+        )
+        (wire
+          (path 22 1000
+            199279 -176227
+            199278 -176227
+            199278 -175070
+            195465 -171257
+            188957 -171257
+            107758 -90058
+          )
+        )
+        (wire
+          (path 1 1000
+            229799 -171876
+            229356 -171876
+            223531 -177701
+            200753 -177701
+            199279 -176227
+          )
+        )
+        (wire
+          (path 1 1000
+            229799 -167216
+            229799 -171876
+          )
+        )
+        (via via1 199279 -176227
+        )
+        (via via1 107758 -90058
+        )
+      )
+      (net U3_21
+        (wire
+          (path 22 1000
+            73496 -87499
+            73496 -93890
+            79433 -99827
+            79433 -134728
+          )
+        )
+        (wire
+          (path 1 1000
+            68158 -87499
+            73496 -87499
+          )
+        )
+        (wire
+          (path 1 1000
+            229297 -175272
+            231767 -172802
+            231767 -167216
+          )
+        )
+        (wire
+          (path 21 1000
+            79433 -134728
+            122779 -178074
+            188471 -178074
+            189428 -179031
+            225538 -179031
+            229297 -175272
+          )
+        )
+        (via via1 229297 -175272
+        )
+        (via via1 79433 -134728
+        )
+        (via via1 73496 -87499
+        )
+      )
+      (net U3_22
+        (wire
+          (path 1 1000
+            225082 -155921
+            227102 -155921
+            233736 -162555
+          )
+        )
+        (wire
+          (path 2 1000
+            77915 -95027
+            77915 -118892
+            84033 -125010
+          )
+        )
+        (wire
+          (path 21 1000
+            225082 -155921
+            198462 -129301
+            96607 -129301
+            92316 -125010
+            84033 -125010
+          )
+        )
+        (wire
+          (path 1 1000
+            233736 -167216
+            233736 -162555
+          )
+        )
+        (via via1 225082 -155921
+        )
+        (via via1 84033 -125010
+        )
+        (via via1 77915 -95027
+        )
+        (wire
+          (path 1 1000
+            68158 -95176
+            77766 -95176
+            77915 -95027
+          )
+        )
+      )
+      (net U3_23
+        (wire
+          (path 1 1000
+            196981 -123328
+            235704 -162051
+            235704 -167216
+          )
+        )
+        (via via1 196981 -123328
+        )
+        (wire
+          (path 22 1000
+            146169 -67762
+            147016 -67762
+            186464 -107210
+            186464 -108976
+            196981 -119493
+            196981 -123328
+          )
+        )
+        (via via1 146169 -67762
+        )
+        (wire
+          (path 1 1000
+            140223 -67735
+            146142 -67735
+            146169 -67762
+          )
+        )
+      )
+      (net U3_25
+        (wire
+          (path 1 1000
+            117658 -57499
+            123478 -57499
+          )
+        )
+        (wire
+          (path 2 1000
+            205745 -118913
+            205745 -111315
+            153059 -58629
+            124608 -58629
+            123478 -57499
+          )
+        )
+        (wire
+          (path 1 1000
+            205745 -118913
+            239026 -152194
+            239026 -158655
+            239641 -159270
+            239641 -167216
+          )
+        )
+        (via via1 205745 -118913
+        )
+        (via via1 123478 -57499
+        )
+      )
+      (net U3_26
+        (wire
+          (path 2 1000
+            241610 -155644
+            241610 -62526
+            231307 -52223
+            133425 -52223
+            132574 -53074
+          )
+        )
+        (wire
+          (path 1 1000
+            241610 -155644
+            241610 -167216
+          )
+        )
+        (via via1 241610 -155644
+        )
+        (via via1 132574 -53074
+        )
+        (wire
+          (path 1 1000
+            117658 -65176
+            114679 -65176
+            110764 -61261
+            110764 -55764
+            113511 -53017
+            132517 -53017
+            132574 -53074
+          )
+        )
+      )
+    )
+  )
+)

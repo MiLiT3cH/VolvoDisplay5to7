@@ -1,0 +1,68 @@
+----Pannel Display info------------------------------------------------------------------------------------
+
+Brand:ND
+Model:C070VVN02
+Type: a-Si TFT-LCD, LCM
+Resolution: 800(RGB)×480
+Comunication: Parallel RGB (1 ch, 6-bit) , 50 pins Connector TTL
+Connettore: flat 50 pin
+Lampade: Alimentazione estena (22v)
+
+---Pinout---------------------------------------------------------------------------------------------------
+1 VDD P Power supply, 3.3V(typical)
+2 VDD P Power supply, 3.3V(typical)
+3 NC - No connection. Please leave it open or connect to ground
+4 GND G Power ground
+5 RSTB I Global reset. Active Low to enter Reset State. (Normally pull high)
+6 STBYB I Standby mode. Normally pulled high.
+STBYB = “H”, normal operation
+STBYB = “L”, timing controller, source driver will turn off, all output are high-Z.
+7 GND I Power ground
+8 UPDN I Gate up or down scan control. Normally pulled low.
+9 SHLR I Source right or left control. Normally pulled high.
+SHLR = “H”, Shift right: first data =S1S2... S800 = last data.
+SHLR = “L”, Shift left: last data =S1S2... S800 = first data.
+10 DITHB I
+Dithering function enable control. Normally pulled high.
+DITHB = “H”, Disable internal dithering function.
+DITHB = “L”, Enable internal dithering function.
+11 MODE IDE/SYNC mode select. Normally pulled high. MODE = ”H” : DE mode. MODE = “L” : HSD/VSD mode.
+12 GND G Power ground
+13 R0 I Red data (LSB)
+14 R1 I Red data
+15 R2 I Red data
+16 R3 I Red data
+17 R4 I Red data
+18 R5 I Red data
+19 R6 I Red data
+20 R7 I Red data (MSB)
+21 GND G Power ground
+22 G0 I Green data (LSB)
+23 G1 I Green data
+24 G2 I Green data
+25 G3 I Green data
+26 G4 I Green data
+27 G5 I Green data
+28 G6 I Green data
+29 G7 I Green data (MSB)
+30 GND G Power ground
+31 B0 I Blue data (LSB)
+32 B1 I Blue data
+33 B2 I Blue data
+34 B3 I Blue data
+35 B4 I Blue data
+36 B5 I Blue data
+37 B6 I Blue data
+38 B7 I Blue data (MSB)
+39 GND G Power ground
+40 CLKIN I Pixel clock，rising latch
+41 GND G Power ground
+42 DEN I Data input enable. Active high to enable the data input bus under ”DE mode”. Normally pulled Low.
+43 GND G Power ground
+44 HSD I Horizontal sync input. Negative polarity.
+45 GND G Power ground
+46 VSD I Vertical sync input. Negative polarity.
+47 GND G Power ground
+48 NC - No connection. Please leave it open or connect to ground
+49 LED+ P Power supply for LED
+50 LED- P Power supply for LED
