@@ -15,4 +15,4 @@ Qualora fosse possibile, vorrei studiare un sistema economico per iniettare un s
  * Test On Board scheda originale 5 pollici e display 7 pollici
  * Analisi scheda 5 pollici
  * Analisi integrato MOST 
- * Alisi Driver led e pinout
+ * Analisi Driver led e pinout
