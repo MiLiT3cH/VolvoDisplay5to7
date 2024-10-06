@@ -1,0 +1,6 @@
+----------------------------[Led Driver 7 pollici]------------------------------
+
+Integrato: max16814 4ch led driver
+Tensioni: 0-40v
+Tipologia: positivo comune con controllo su negativa, in questo caso 3 canali
+Enable: pin 2

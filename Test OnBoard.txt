@@ -1,0 +1,11 @@
+--------------------------------------------------------------TEST-----------------------------------------------------
+
+Data: 06/10/2024
+Tipologia: On Board
+Fine: Verifica sovraccarichi e funzionamento
+
+Ho eseguito il primo test di alimentazione della scheda 5 pollici con display 7 Pollici;
+ho verifiato tramite multimetro la presenza di tensione, traendo la conclusione che non sono presenti sovraccarichi;
+Tuttavia si denota l'incompatibilità del connettore per l'alimentazione della retroilluminazione del display
+
+Esito: Positivo

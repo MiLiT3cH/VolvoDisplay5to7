@@ -11,3 +11,8 @@ Qualora fosse possibile, vorrei studiare un sistema economico per iniettare un s
 ### 05/10/2024:   
  * Analisi Schede 5 e 7 pollici 
  * Ricerche datasheet
+## 06/10/2024
+ * Test On Board scheda originale 5 pollici e display 7 pollici
+ * Analisi scheda 5 pollici
+ * Analisi integrato MOST 
+ * Alisi Driver led e pinout

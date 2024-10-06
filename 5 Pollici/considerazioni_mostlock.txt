@@ -1,0 +1,16 @@
+----------------------------------------Most Lock------------------------------------------------------------------
+
+Secondo il datasheet, l'integrato "OS8104AAQ" è il principale sospettato per il così detto "blocco Most";
+Difatti esso, oltre a gestire la comunicazione in fibra ottica si occupa anche dell'invio di dati identificativi.
+Si presume che questi dati siano presenti in specifici offset all'interno delle memorie. 
+In mancanza di dump si presume che siano presenti all'interno della NAND "MT29F2G08A";
+Tutta via, osservando il datasheet dell'integrato si nota la modalità "Stand-Alone";
+essa esclude l'utilizzo del microconotrollore esterno e accetta ogni comando che gli arriva.
+per accedere a questa modalità bisogna portare a massa i pint /RD e /RW
+
+
+Considerazioni:
+
+Prima di tentare l'approccio in Stand-Alone Mode, penso sia più opportuno analizzare il contenuto delle memorie.
+In ogni caso è l'ennesima dimostrazione di una soluzione overingenerizzata..
+Difatti nei modelli sucessivi a 7 pollici, hanno rimosso questa tipologia di comunicazione
