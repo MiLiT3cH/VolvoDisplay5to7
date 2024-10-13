@@ -9,3 +9,19 @@ ho verifiato tramite multimetro la presenza di tensione, traendo la conclusione 
 Tuttavia si denota l'incompatibilità del connettore per l'alimentazione della retroilluminazione del display
 
 Esito: Positivo
+
+--------------------------------------------------------------------------------------------------------------------------
+Data: 13/10/2024
+Tipologia: On Board
+Fine: verifica funzionalità display
+
+Risolto il problema della retroilluminazione (tramite un driver led universale), ho proceduto per alla prova del display;
+Una volta collegato tutta la main originale con il display 7 pollici e fornita allimentazione al driver led;
+il risultato è: schermo nero.
+È evidente che nonostante la presunta tecnologia di funzionamento uguale tra i due display;
+Ci siano comunque delle differenze che non gli permettono il funzionamento;
+Fattori come: Timing display o dello stesso clock.
+Ora bisogna pensare a un approccio differente
+
+Esito: Fallito
+
